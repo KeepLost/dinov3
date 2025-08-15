@@ -52,37 +52,37 @@ ViT models pretrained on web dataset (LVD-1689M):
       <td>ViT-S/16 distilled </td>
       <td align="right">21M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vits16/dinov3_vits16_pretrain_lvd1689m-08c60483.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ViT-S+/16 distilled</td>
       <td align="right">29M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vits16plus/dinov3_vits16plus_pretrain_lvd1689m-4057cbaa.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ViT-B/16 distilled</td>
       <td align="right">86M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vitb16/dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ViT-L/16 distilled</td>
       <td align="right">300M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vitl16/dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ViT-H+/16 distilled</td>
       <td align="right">840M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vith16plus/dinov3_vith16plus_pretrain_lvd1689m-7c1da9a5.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ViT-7B/16</td>
       <td align="right">6,716M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vit7b16/dinov3_vit7b16_pretrain_lvd1689m-a955f4ea.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -102,25 +102,25 @@ ConvNeXt models pretrained on web dataset (LVD-1689M):
       <td>ConvNeXt Tiny</td>
       <td align="right">29M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_convnext_tiny/dinov3_convnext_tiny_pretrain_lvd1689m-21b726bb.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ConvNeXt Small</td>
       <td align="right">50M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_convnext_small/dinov3_convnext_small_pretrain_lvd1689m-296db49d.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ConvNeXt Base</td>
       <td align="right">89M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_convnext_base/dinov3_convnext_base_pretrain_lvd1689m-801f2ba9.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ConvNeXt Large</td>
       <td align="right">198M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_convnext_large/dinov3_convnext_large_pretrain_lvd1689m-61fa432d.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -140,13 +140,13 @@ ViT models pretrained on satellite dataset (SAT-493M):
       <td>ViT-L/16 distilled</td>
       <td align="right">300M</td>
       <td align="center">SAT-493M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vitl16/dinov3_vitl16_pretrain_sat493m-eadcf0ff.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
     <tr>
       <td>ViT-7B/16</td>
       <td align="right">6,716M</td>
       <td align="center">SAT-493M</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vit7b16/dinov3_vit7b16_pretrain_sat493m-a6675841.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -285,7 +285,7 @@ def make_transform(resize_size: int = 224):
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">ImageNet</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vit7b16/dinov3_vit7b16_imagenet1k_linear_head-90d8ed92.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -317,7 +317,7 @@ dinov3_vit7b16_lc = torch.hub.load(REPO_DIR, 'dinov3_vit7b16_lc', source="local"
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">SYNTHMIX</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vit7b16/dinov3_vit7b16_synthmix_dpt_head-02040be1.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -388,7 +388,7 @@ plt.axis("off")
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">COCO2017</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vit7b16/dinov3_vit7b16_coco_detr_head-b0235ff7.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -414,7 +414,7 @@ detector = torch.hub.load(REPO_DIR, 'dinov3_vit7b16_de', source="local", weights
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">ADE20K</td>
-      <td align="center"><a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a></td>
+      <td align="center"><a href="https://dinov3.llamameta.net/dinov3_vit7b16/dinov3_vit7b16_ade20k_m2f_head-bf307cb1.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a></td>
     </tr>
   </tbody>
 </table>
@@ -499,7 +499,7 @@ plt.axis("off")
     <tr>
       <td>ViT-L/16 distilled</td>
       <td align="center">
-        <a href="https://ai.meta.com/resources/models-and-libraries/dinov3-downloads/">[link]</a>,
+        <a href="https://dinov3.llamameta.net/dinov3_vitl16/dinov3_vitl16_dinotxt_vision_head_and_text_encoder-a442d8f5.pth?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiZDNueTgzaDdyZGFlODAyZzduM3Vidm50IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZGlub3YzLmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTU0MjQzODR9fX1dfQ__&Signature=qm2kpnGKxpqxyKiQdOT02aiksZW71YBg5PXrkAgeZlpLOBqDfKQ8E4Pl1rGV%7EwYo%7EsEGaIWtitZmzaQsAzxcn-u2sbM5Nb8T9EzVCm%7E0ZruaztLMSLDMV7MB0yZUyc51XvoTWRZWfinG0Matv2SuisvlNmh-aFFjNps2vKrDfY1e1lrQeoVaCBv9%7EgZCLQEOwSAHFH2fM5q5E5x2U%7EtYn5VqIeU7XvmeQnHiCuY3Wis59Ecr1VdmsXzOklQIGCLzD7WcH8PmyeJ61L71J5sWTVPllRl8R8OPIMO-ba1cXWEG7ShrYNWIl38dUiye4Fw-V8uAfOIRdb9WSZ52y2j5hg__&Key-Pair-Id=K15QRJLYKIFSLZ">[link]</a>,
         <a href="https://dl.fbaipublicfiles.com/dinov3/thirdparty/bpe_simple_vocab_16e6.txt.gz">vocabulary</a>,
         <a href="https://dl.fbaipublicfiles.com/dinov2/thirdparty/LICENSE">vocabulary license</a>
       </td>
