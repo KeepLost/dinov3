@@ -52,37 +52,37 @@ ViT models pretrained on web dataset (LVD-1689M):
       <td>ViT-S/16 distilled </td>
       <td align="right">21M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ViT-S+/16 distilled</td>
       <td align="right">29M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ViT-B/16 distilled</td>
       <td align="right">86M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ViT-L/16 distilled</td>
       <td align="right">300M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ViT-H+/16 distilled</td>
       <td align="right">840M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ViT-7B/16</td>
       <td align="right">6,716M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -102,25 +102,25 @@ ConvNeXt models pretrained on web dataset (LVD-1689M):
       <td>ConvNeXt Tiny</td>
       <td align="right">29M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ConvNeXt Small</td>
       <td align="right">50M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ConvNeXt Base</td>
       <td align="right">89M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ConvNeXt Large</td>
       <td align="right">198M</td>
       <td align="center">LVD-1689M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -140,13 +140,13 @@ ViT models pretrained on satellite dataset (SAT-493M):
       <td>ViT-L/16 distilled</td>
       <td align="right">300M</td>
       <td align="center">SAT-493M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
     <tr>
       <td>ViT-7B/16</td>
       <td align="right">6,716M</td>
       <td align="center">SAT-493M</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -285,7 +285,7 @@ def make_transform(resize_size: int = 224):
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">ImageNet</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -317,7 +317,7 @@ dinov3_vit7b16_lc = torch.hub.load(REPO_DIR, 'dinov3_vit7b16_lc', source="local"
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">SYNTHMIX</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -388,7 +388,7 @@ plt.axis("off")
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">COCO2017</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -414,7 +414,7 @@ detector = torch.hub.load(REPO_DIR, 'dinov3_vit7b16_de', source="local", weights
       <td>ViT-7B/16</td>
       <td align="center">LVD-1689M</td>
       <td align="center">ADE20K</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a></td>
     </tr>
   </tbody>
 </table>
@@ -499,7 +499,7 @@ plt.axis("off")
     <tr>
       <td>ViT-L/16 distilled</td>
       <td align="center">
-        <a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,
+        <a href="https://pan.baidu.com/s/1as_a7iG17qh2n6xQAh4XaA?pwd=simd">[Baidu]</a>,<a href="https://e.pcloud.link/publink/show?code=kZYp3EZzNnUmp1jxCunW464QC5jJRl8pExV">[pCloud]</a>,
         <a href="https://dl.fbaipublicfiles.com/dinov3/thirdparty/bpe_simple_vocab_16e6.txt.gz">vocabulary</a>,
         <a href="https://dl.fbaipublicfiles.com/dinov2/thirdparty/LICENSE">vocabulary license</a>
       </td>
